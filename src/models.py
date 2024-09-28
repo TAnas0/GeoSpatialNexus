@@ -1,8 +1,7 @@
 from sqlalchemy import Column, Integer, String, Float, CheckConstraint
 from .database import Base
-from geoalchemy2 import Geometry, shape
+from geoalchemy2 import Geometry
 from sqlalchemy.orm import validates
-from shapely.geometry import shape
 
 from email_validator import (
     validate_email as validate_email_validator,
