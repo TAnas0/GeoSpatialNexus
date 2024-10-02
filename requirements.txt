@@ -67,7 +67,7 @@ starlette==0.38.6
 tomli==2.0.1
 typing_extensions==4.12.2
 urllib3==2.2.3
-uvicorn==0.30.6
+uvicorn==0.31.0
 virtualenv==20.26.5
 Werkzeug==3.0.4
 wrapt==1.16.0
