@@ -21,7 +21,7 @@ GeoAlchemy2==0.15.2
 geojson==3.1.0
 greenlet==3.1.1
 h11==0.14.0
-httpcore==1.0.5
+httpcore==1.0.6
 httpx==0.27.2
 identify==2.6.1
 idna==3.10
