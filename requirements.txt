@@ -42,10 +42,10 @@ numpy==2.1.1
 ordered-set==4.1.0
 packaging==24.1
 pathspec==0.12.1
-phonenumbers==8.13.46
+phonenumbers==8.13.47
 platformdirs==4.3.6
 pluggy==1.5.0
-pre-commit==3.8.0
+pre-commit==4.0.0
 psycopg2-binary==2.9.9
 pycodestyle==2.12.1
 pydantic==2.9.2
@@ -57,7 +57,7 @@ pytest==8.3.3
 python-dotenv==1.0.1
 PyYAML==6.0.2
 requests==2.32.3
-rich==13.8.1
+rich==13.9.1
 shapely==2.0.6
 simplejson==3.19.3
 slowapi==0.1.9
@@ -67,7 +67,7 @@ starlette==0.38.6
 tomli==2.0.1
 typing_extensions==4.12.2
 urllib3==2.2.3
-uvicorn==0.30.6
 virtualenv==20.26.6
+uvicorn==0.31.0
 Werkzeug==3.0.4
 wrapt==1.16.0
